@@ -1,0 +1,17 @@
+/* GoodbyeScreen.css */
+.goodbye-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #000;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .goodbye-title {
+    font-size: 2rem;
+    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
+  }
+  
